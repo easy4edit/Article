@@ -1,4 +1,5 @@
 {
 	"name": "easy4edit/article",
-	"description": "Article component"
+	"description": "Article component",
+        "type": "library"
 }
